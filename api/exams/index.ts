@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { readJson, writeJson, handleCors, getTokenFromRequest } from '../_lib/github';
-import { verifyToken } from '../_lib/auth';
+import { readJson, writeJson, handleCors, getTokenFromRequest } from '../lib/github';
+import { verifyToken } from '../lib/auth';
 import type { Exam } from '../../src/types/exam';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
