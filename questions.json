@@ -11,5 +11,18 @@
       "4"
     ],
     "correctIndex": 1
+  },
+  {
+    "id": "mq5i6c1kakemb4t",
+    "examId": "mq5i4rw0e8ei2sz",
+    "type": "mcq",
+    "question": "3+2",
+    "options": [
+      "2",
+      "6",
+      "9",
+      "5"
+    ],
+    "correctIndex": 3
   }
 ]
