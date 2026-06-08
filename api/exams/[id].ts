@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { readJson, writeJson, handleCors, getTokenFromRequest } from '../_lib/github.ts';
-import { verifyToken } from '../_lib/auth.ts';
-import type { Exam } from '../../src/types/exam.ts';
+import { readJson, writeJson, handleCors, getTokenFromRequest } from '../_lib/github';
+import { verifyToken } from '../_lib/auth';
+import type { Exam } from '../../src/types/exam';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (handleCors(req, res)) return;
