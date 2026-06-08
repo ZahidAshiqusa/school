@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "mq5i4rw0e8ei2sz",
+    "title": "ANNUAL EXAM",
+    "description": "FINAL TEST",
+    "type": "mcq",
+    "totalMarks": 20,
+    "isActive": true,
+    "createdBy": "admin",
+    "createdAt": "2026-06-08T17:45:42.681Z"
+  }
+]
