@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "12",
+    "role": "student",
+    "name": "zaid",
+    "phone": "032999931199",
+    "password": "1234"
+  }
+]
