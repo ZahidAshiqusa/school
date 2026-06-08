@@ -24,5 +24,18 @@
       "5"
     ],
     "correctIndex": 3
+  },
+  {
+    "id": "mq5i78uwi3cscot",
+    "examId": "mq5i4rw0e8ei2sz",
+    "type": "mcq",
+    "question": "86-80",
+    "options": [
+      "0",
+      "9",
+      "6",
+      "3"
+    ],
+    "correctIndex": 2
   }
 ]
