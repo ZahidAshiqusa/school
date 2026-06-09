@@ -12,5 +12,12 @@
     "name": "ss",
     "phone": "123",
     "password": "1234"
+  },
+  {
+    "id": "8053",
+    "role": "student",
+    "name": "Azam",
+    "phone": "03127053517",
+    "password": "1122"
   }
 ]
