@@ -8,5 +8,15 @@
     "isActive": true,
     "createdBy": "admin",
     "createdAt": "2026-06-08T17:45:42.681Z"
+  },
+  {
+    "id": "mq63rpv3kt1fftc",
+    "title": "Online ",
+    "description": "A secure, timed, web-based assessment that evaluates your knowledge and skills from any location. Questions are delivered instantly, responses are auto-graded, and detailed results are available immediately after submission. All you need is a stable internet connection and a compatible device",
+    "type": "mcq",
+    "totalMarks": 20,
+    "isActive": true,
+    "createdBy": "admin",
+    "createdAt": "2026-06-09T03:51:22.710Z"
   }
 ]
