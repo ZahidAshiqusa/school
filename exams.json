@@ -18,5 +18,15 @@
     "isActive": true,
     "createdBy": "admin",
     "createdAt": "2026-06-09T03:51:22.710Z"
+  },
+  {
+    "id": "mqoy1j1wwsmax77",
+    "title": "Hh",
+    "description": "Hbb",
+    "type": "mcq",
+    "totalMarks": 100,
+    "isActive": true,
+    "createdBy": "admin",
+    "createdAt": "2026-06-22T08:18:38.241Z"
   }
 ]
